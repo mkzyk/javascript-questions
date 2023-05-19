@@ -304,7 +304,7 @@ console.log(greetign);
 
 ---
 
-###### 10. これを行うと、どうなりますか？
+###### ❌ 10. これを行うと、どうなりますか？
 
 ```javascript
 function bark() {
