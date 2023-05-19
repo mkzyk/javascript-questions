@@ -278,7 +278,7 @@ freddie.colorChange("orange");
 
 ---
 
-###### 9. 何が出力されるでしょうか？
+###### ❌ 9. 何が出力されるでしょうか？
 
 ```javascript
 let greeting;
