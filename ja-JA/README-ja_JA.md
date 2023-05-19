@@ -133,7 +133,7 @@ shape.perimeter();
 
 ---
 
-###### 5. 正解はどれでしょう？
+###### ❌ 5. 正解はどれでしょう？
 
 ```javascript
 const bird = {
