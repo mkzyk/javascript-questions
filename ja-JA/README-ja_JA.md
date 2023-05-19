@@ -241,7 +241,7 @@ console.log(b === c);
 
 ---
 
-###### 8. 何が出力されるでしょうか？
+###### ❌ 8. 何が出力されるでしょうか？
 
 ```javascript
 class Chameleon {
