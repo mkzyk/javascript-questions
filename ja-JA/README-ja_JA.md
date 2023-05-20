@@ -414,7 +414,7 @@ console.log(sarah);
 
 ---
 
-###### 13. イベント伝播の3つの段階はどれですか？
+###### ❌ 13. イベント伝播の3つの段階はどれですか？
 
 - A: Target > Capturing > Bubbling
 - B: Bubbling > Target > Capturing
