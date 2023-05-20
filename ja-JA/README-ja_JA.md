@@ -333,7 +333,7 @@ bark.animal = "dog";
 
 ---
 
-###### 11. 何が出力されるでしょうか？
+###### ❌　11. 何が出力されるでしょうか？
 
 ```javascript
 function Person(firstName, lastName) {
