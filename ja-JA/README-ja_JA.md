@@ -487,7 +487,7 @@ JavaScriptは、**動的に型付けされた言語**です。: 特定の変数�
 
 ---
 
-###### 16. 何が出力されるでしょうか？
+###### ❌ 16. 何が出力されるでしょうか？
 
 ```javascript
 let number = 0;
@@ -554,7 +554,7 @@ getPersonInfo`${person} is ${age} years old`;
 
 ---
 
-###### 18. 何が出力されるでしょうか？
+###### ❌ 18. 何が出力されるでしょうか？
 
 ```javascript
 function checkAge(data) {
@@ -590,7 +590,7 @@ checkAge({ age: 18 });
 
 ---
 
-###### 19. 何が出力されるでしょうか？
+###### ❌ 19. 何が出力されるでしょうか？
 
 ```javascript
 function getAge(...args) {
@@ -617,7 +617,7 @@ getAge(21);
 
 ---
 
-###### 20. 何が出力されるでしょうか？
+###### ❌ 20. 何が出力されるでしょうか？
 
 ```javascript
 function getAge() {
@@ -671,7 +671,7 @@ const sum = eval("10*10+5");
 
 ---
 
-###### 22. cool_secretは、どのくらいの期間アクセス可能ですか？
+###### ❌ 22. cool_secretは、どのくらいの期間アクセス可能ですか？
 
 ```javascript
 sessionStorage.setItem("cool_secret", 123);
@@ -779,7 +779,7 @@ console.log(obj);
 
 ---
 
-###### 26. JavaScriptのglobal execution contextは、2つを作成します。: それはグローバルオブジェクトと "this"キーワードです。
+###### ❌ 26. JavaScriptのglobal execution contextは、2つを作成します。: それはグローバルオブジェクトと "this"キーワードです。
 
 - A: true
 - B: false
@@ -856,7 +856,7 @@ console.log(name.giveLydiaPizza())
 
 ---
 
-###### 29. 何が出力されるでしょうか？
+###### ❌ 29. 何が出力されるでしょうか？
 
 ```javascript
 const a = {};
