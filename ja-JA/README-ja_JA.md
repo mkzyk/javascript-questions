@@ -1004,7 +1004,7 @@ event loopが機能し始めるところです。 **event loop**はスタック�
 
 ---
 
-###### 33. 何が出力されるでしょうか？
+###### ❌ 33. 何が出力されるでしょうか？
 
 ```javascript
 const person = { name: "Lydia" };
@@ -1030,6 +1030,12 @@ sayHi.bind(person, 21);
 両方とも、`this`キーワードが参照したいオブジェクトを渡すことができます。しかし、`.call`もすぐに実行されます。
 
 `.bind.`は関数のコピーを返しますが、コンテキストは束縛されています。すぐには実行されません。
+下記みたいに実行を記述しないと実行されないってこと. 
+
+```javascript
+const sayHiBind = sayHi.bind(person, 21);
+sayHiBind();
+```  
 
 </p>
 </details>
@@ -1065,7 +1071,7 @@ typeof sayHi();
 
 ---
 
-###### 35. これらの値のどれがfalsyですか？
+###### ❌ 35. これらの値のどれがfalsyですか？
 
 ```javascript
 0;
@@ -1102,7 +1108,7 @@ falsyの値は6つだけです。
 
 ---
 
-###### 36. 何が出力されるでしょうか？
+###### ❌ 36. 何が出力されるでしょうか？
 
 ```javascript
 console.log(typeof typeof 1);
@@ -1156,7 +1162,7 @@ console.log(numbers);
 
 ---
 
-###### 38. 何が出力されるでしょうか？
+###### ❌ 38. 何が出力されるでしょうか？
 
 ```javascript
 (() => {
@@ -1193,7 +1199,7 @@ console.log(numbers);
 
 ---
 
-###### 39. JavaScriptのすべてはどちらかです...
+###### ❌ 39. JavaScriptのすべてはどちらかです...
 
 - A: primitive か object
 - B: function か object
@@ -1220,7 +1226,7 @@ JavaScriptにはプリミティブ型とオブジェクトしかありません�
 
 ---
 
-###### 40. 何が出力されるでしょうか？
+######  ❌ 40. 何が出力されるでしょうか？
 
 ```javascript
 [[0, 1], [2, 3]].reduce(
