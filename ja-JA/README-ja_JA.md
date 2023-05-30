@@ -333,7 +333,7 @@ bark.animal = "dog";
 
 ---
 
-###### ❌ 11. 何が出力されるでしょうか？
+###### ❌❌ 11. 何が出力されるでしょうか？
 
 ```javascript
 function Person(firstName, lastName) {
@@ -378,7 +378,7 @@ Person.prototype.getFullName = function() {
 
 ---
 
-###### ❌ 12. 何が出力されるでしょうか？
+###### ❌❌ 12. 何が出力されるでしょうか？
 
 ```javascript
 function Person(firstName, lastName) {
@@ -435,7 +435,7 @@ console.log(sarah);
 
 ---
 
-###### ❌ 14. すべてのオブジェクトはプロトタイプを持っています。
+###### ❌❌ 14. すべてのオブジェクトはプロトタイプを持っています。
 
 - A: true
 - B: false
@@ -523,7 +523,7 @@ console.log(number);
 
 ---
 
-###### 17. 何が出力されるでしょうか？
+###### ❌ 2nd 17. 何が出力されるでしょうか？
 
 ```javascript
 function getPersonInfo(one, two, three) {
@@ -554,7 +554,7 @@ getPersonInfo`${person} is ${age} years old`;
 
 ---
 
-###### ❌ 18. 何が出力されるでしょうか？
+###### ❌❌ 18. 何が出力されるでしょうか？
 
 ```javascript
 function checkAge(data) {
@@ -590,7 +590,7 @@ checkAge({ age: 18 });
 
 ---
 
-###### ❌ 19. 何が出力されるでしょうか？
+###### ❌❌ 19. 何が出力されるでしょうか？
 
 ```javascript
 function getAge(...args) {
@@ -617,7 +617,7 @@ getAge(21);
 
 ---
 
-###### ❌ 20. 何が出力されるでしょうか？
+###### ❌❌ 20. 何が出力されるでしょうか？
 
 ```javascript
 function getAge() {
