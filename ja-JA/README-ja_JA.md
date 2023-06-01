@@ -856,7 +856,7 @@ console.log(name.giveLydiaPizza())
 
 ---
 
-###### ❌ 29. 何が出力されるでしょうか？
+###### ❌❌ 29. 何が出力されるでしょうか？
 
 ```javascript
 const a = {};
