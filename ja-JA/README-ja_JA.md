@@ -2260,7 +2260,7 @@ console.log("🥑" + "💻");
 
 ---
 
-###### ❌ 71. console.logステートメントの後にコメントアウトされている値を、ログ出力する方法を教えてください。
+###### ❌❌ 71. console.logステートメントの後にコメントアウトされている値を、ログ出力する方法を教えてください。
 
 ```javascript
 function* startGame() {
@@ -2334,7 +2334,7 @@ console.log(String.raw`Hello\nworld`);
 
 ---
 
-###### ❌ 73. 何が出力されるでしょうか？
+###### ❌❌ 73. 何が出力されるでしょうか？
 
 ```javascript
 async function getData() {
@@ -2368,7 +2368,7 @@ console.log(data);
 
 ---
 
-###### ❌ 74. 何が出力されるでしょうか？
+###### ❌❌ 74. 何が出力されるでしょうか？
 
 ```javascript
 function addToList(item, list) {
@@ -2438,7 +2438,7 @@ console.log(shape);
 
 ---
 
-###### ❌ 76. 何が出力されるでしょうか？
+###### ❌❌ 76. 何が出力されるでしょうか？
 
 ```javascript
 const { name: myName } = { name: "Lydia" };
@@ -2641,7 +2641,7 @@ ES6では、このデフォルトの`undefined`値を、デフォルトパラメ
 
 ---
 
-###### ❌ 82. 何が出力されるでしょうか？
+###### ❌❌ 82. 何が出力されるでしょうか？
 
 ```javascript
 var status = "😎"
@@ -2723,7 +2723,7 @@ console.log(person)
 
 ---
 
-###### ❌ 84. 何が出力されるでしょうか？
+###### ❌❌ 84. 何が出力されるでしょうか？
 
 ```javascript
 function checkAge(age) {
