@@ -6,7 +6,7 @@
 
 答えは質問の下の折りたたまれたセクションにあります、クリックすればそれを広げられます。幸運を祈ります。:heart:
 
-###### ❌❌ 2nd 1. 何が出力されるでしょうか？
+###### ❌❌❌ 2nd 1. 何が出力されるでしょうか？
 
 ```javascript
 function sayHi() {
@@ -304,7 +304,7 @@ console.log(greetign);
 
 ---
 
-###### ❌❌❌ 10. これを行うと、どうなりますか？
+###### ❌❌❌❌ 10. これを行うと、どうなりますか？
 
 ```javascript
 function bark() {
@@ -333,7 +333,7 @@ bark.animal = "dog";
 
 ---
 
-###### ❌❌❌ 11. 何が出力されるでしょうか？
+###### ❌❌❌❌ 11. 何が出力されるでしょうか？
 
 ```javascript
 function Person(firstName, lastName) {
@@ -378,7 +378,7 @@ Person.prototype.getFullName = function() {
 
 ---
 
-###### ❌❌❌ 12. 何が出力されるでしょうか？
+###### ❌❌❌❌ 12. 何が出力されるでしょうか？
 
 ```javascript
 function Person(firstName, lastName) {
@@ -856,7 +856,7 @@ console.log(name.giveLydiaPizza())
 
 ---
 
-###### ❌❌❌ 29. 何が出力されるでしょうか？
+###### ❌❌❌❌ 29. 何が出力されるでしょうか？
 
 ```javascript
 const a = {};
@@ -1667,7 +1667,7 @@ console.log(myCar.make);
 
 ---
 
-###### ❌❌❌ 54. 何が出力されるでしょうか？
+###### ❌❌❌❌ 54. 何が出力されるでしょうか？
 
 ```javascript
 (() => {
