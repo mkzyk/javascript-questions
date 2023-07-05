@@ -6,7 +6,7 @@
 
 答えは質問の下の折りたたまれたセクションにあります、クリックすればそれを広げられます。幸運を祈ります。:heart:
 
-###### ❌❌❌ 2nd 1. 何が出力されるでしょうか？
+###### 🚫 ❌❌❌ 2nd 1. 何が出力されるでしょうか？
 
 ```javascript
 function sayHi() {
@@ -72,7 +72,7 @@ JavaScriptのイベントキューのため、`setTimeout`コールバック関�
 
 ---
 
-###### ⚠️ ❌❌ 3. 何が出力されるでしょうか？
+###### 🚫 ⚠️ ❌❌ 3. 何が出力されるでしょうか？
 
 ```javascript
 const shape = {
@@ -241,7 +241,7 @@ console.log(b === c);
 
 ---
 
-###### ❌❌ 8. 何が出力されるでしょうか？
+###### 🚫 ❌❌ 8. 何が出力されるでしょうか？
 
 ```javascript
 class Chameleon {
@@ -487,7 +487,7 @@ JavaScriptは、**動的に型付けされた言語**です。: 特定の変数�
 
 ---
 
-###### ⚠️ ❌ 16. 何が出力されるでしょうか？
+###### 🚫 ⚠️ ❌ 16. 何が出力されるでしょうか？
 
 ```javascript
 let number = 0;
@@ -590,7 +590,7 @@ checkAge({ age: 18 });
 
 ---
 
-###### ❌❌❌ 19. 何が出力されるでしょうか？
+###### 🚫 ❌❌❌ 19. 何が出力されるでしょうか？
 
 ```javascript
 function getAge(...args) {
@@ -648,7 +648,7 @@ getAge();
 
 ---
 
-###### 21. sumの値は何？
+###### 🚫 21. sumの値は何？
 
 ```javascript
 const sum = eval("10*10+5");
@@ -856,7 +856,7 @@ console.log(name.giveLydiaPizza())
 
 ---
 
-###### ❌❌❌❌ 29. 何が出力されるでしょうか？
+###### 🚫 ❌❌❌❌ 29. 何が出力されるでしょうか？
 
 ```javascript
 const a = {};
@@ -1561,7 +1561,7 @@ const num = parseInt("7*6", 10);
 
 ---
 
-###### 51. 何が出力されるでしょうか？
+###### 🚫 51. 何が出力されるでしょうか？
 
 ```javascript
 function getInfo(member, year) {
@@ -1916,7 +1916,7 @@ console.log(admin);
 
 ---
 
-###### ❌❌ 61. 何が出力されるでしょうか？
+###### 🚫 ❌❌ 61. 何が出力されるでしょうか？
 
 ```javascript
 const person = { name: "Lydia" };
@@ -2334,7 +2334,7 @@ console.log(String.raw`Hello\nworld`);
 
 ---
 
-###### ❌❌ 73. 何が出力されるでしょうか？
+###### 🚫 ❌❌ 73. 何が出力されるでしょうか？
 
 ```javascript
 async function getData() {
@@ -2608,7 +2608,7 @@ console.log(list)
 
 ---
 
-###### 81. 何が出力されるでしょうか？
+###### 🚫 81. 何が出力されるでしょうか？
 
 ```javascript
 function sayHi(name) {
@@ -2723,7 +2723,7 @@ console.log(person)
 
 ---
 
-###### ❌❌❌ 84. 何が出力されるでしょうか？
+###### 🚫 ❌❌❌ 84. 何が出力されるでしょうか？
 
 ```javascript
 function checkAge(age) {
